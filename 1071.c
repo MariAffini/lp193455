@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Mariana Sales de Affini
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1071
-Data        : 23/04/2026
+Data        : 16/04/2026
 Objetivo    : Leia 2 valores inteiros X e Y. A seguir, calcule e mostre a soma dos números impares entre eles.
 Aprendizado : Compreendi a ultilização do for. 
 -------------------------------------------------------------------------- */
