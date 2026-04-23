@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Mariana Sales de Affini
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1013
-Data        : 23/04/2026
+Data        : 08/04/2026
 Objetivo    : Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. 
 Aprendizado : Compreendi a ulilização do scanf. 
 -------------------------------------------------------------------------- */
